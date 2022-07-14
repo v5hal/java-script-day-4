@@ -1,0 +1,9 @@
+questions:
+
+1: how to compare two JSON have the same properties without order?
+        a. var obj1 = {name: "Person 1",age:5};
+        b. var obj2 = {age:5, name: "Person"}:
+
+2 use the rest countries api url-https://restcountries.com/v3.1/all and display all the country flags in the console
+
+2. use the same rest countries ans print all the countries names, regions, sub-regions and populations
